@@ -3,7 +3,7 @@ schedule:
   program: java
   lessons: 
   - date: "2022-02-01"
-    startTime: 08
+    startTime: 8
     endTime: 12
     description: devops
     
