@@ -1,3 +1,13 @@
 computer:
   cpu:
+    manufacturer: amd
     cores: 8
+    frequency: 19
+  memory:
+    manufacturer: kingston
+    size: 32
+    type: ddr
+  disk:
+    manufacturer: samsung
+    size: 960
+    type: ssr
