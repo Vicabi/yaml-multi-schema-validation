@@ -13,6 +13,10 @@ schedule:
       date:
         type: string
         required: true
+      startTime:
+        type: number
+      endTime:
+        type: number
       description:
         type: string
         required: true
