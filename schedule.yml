@@ -1,9 +1,9 @@
 schedule:
   year: "2022"
   program: java
-  lessons: [
-    date: "2022-02-01"
+  lessons: 
+  - date: "2022-02-01"
     startTime: 08
     endTime: 12
-    description: devops]
+    description: devops
     
