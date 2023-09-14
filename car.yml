@@ -1,2 +1,6 @@
 car:
   manufacturer: volvo
+model: v70
+year: 2009
+reg: AAA123
+attributes: fin volvo i gott skick
