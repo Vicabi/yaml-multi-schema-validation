@@ -1,3 +1,8 @@
 person:
   name:
     first_name: Stig
+    last_name: Larsson
+  age: 10
+  class: 3B
+  start_year: 2020
+  hobbies: [fotboll, golf]
